@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsigabuwalker" alt="tsigabuwalker" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/walker_sn54307" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/walker_sn54307?logo=twitter&style=for-the-badge" alt="https://x.com/walker_sn54307" /></a> </p>
-
 - 🔭 I’m currently working on **Fullstack and ai automation**
 
 - 👯 I’m looking to collaborate on **AI-based full-stack project**

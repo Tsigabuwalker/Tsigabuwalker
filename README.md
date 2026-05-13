@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tsigabu Seyoum</h1>
+<h1 align="center">Hi 👋, I'm Belay RedaE</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsigabuwalker" alt="tsigabuwalker" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Seyoumwalker@gmail.com**
 
-- ⚡ Fun fact **👋 Hello, I’m Tsigabu Seyoum I’m a Full-Stack Developer working with the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building fast, responsive web applications and writing clean, efficient code that creates smooth user experiences. I also work with data using Python, especially Pandas and NumPy, and I like turning raw data into meaningful insights for better decision-making. I’m always learning new technologies. Right now, I’m exploring cloud computing and DevOps to improve how applications are built, deployed, and maintained. Fun facts: • I enjoy solving real-world problems with code • I like combining AI concepts with full-stack projects • I believe debugging is like solving a puzzle • I’m curious, consistent, and community-driven Let’s connect, collaborate, and build something awesome 🌍**
+- ⚡ Fun fact **👋 Hello, I’m Belay RedaE I’m a Full-Stack Developer working with the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building fast, responsive web applications and writing clean, efficient code that creates smooth user experiences. I also work with data using Python, especially Pandas and NumPy, and I like turning raw data into meaningful insights for better decision-making. I’m always learning new technologies. Right now, I’m exploring cloud computing and DevOps to improve how applications are built, deployed, and maintained. Fun facts: • I enjoy solving real-world problems with code • I like combining AI concepts with full-stack projects • I believe debugging is like solving a puzzle • I’m curious, consistent, and community-driven Let’s connect, collaborate, and build something awesome 🌍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
